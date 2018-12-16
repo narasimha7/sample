@@ -1,6 +1,7 @@
 sample
 ======
 Develop Branch
+New from source tree
 desc sample app
 
-Narasimha Fayaz ayesha Gayaz
+Narasimha Fayaz Ayesha Gayaz
